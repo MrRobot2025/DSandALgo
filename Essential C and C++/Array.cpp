@@ -13,6 +13,7 @@ int main()
     {
         printf("%d\n",C[i]);
     }
+    
    
     return 0;
 
